@@ -1,16 +1,14 @@
-## Hi there 👋
+## seja bem vindo ao meu perfil 🏐 
 
-<!--
-**g1ban3l3s/g1ban3l3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é atamanczuk
 
-Here are some ideas to get you started:
+- sou jogador de volei.
+- faço academia.
+- meu sobre nome é atamanczuk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você pode entra em contato comigo 📬
+  vitoratamanczuk@gmail.com
+
+  @vitor.atamanczuk
+
+  ![](https://media1.tenor.com/m/Cry4zCB1rxwAAAAd/monke-monkey.gif)
